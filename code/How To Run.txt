@@ -1,0 +1,7 @@
+Steps to run the program:
+1. Open cmd and navigate to the directory of main.py
+2. Install tkinter using command pip install tkinter
+3. Run command python main.py
+
+
+
